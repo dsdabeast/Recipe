@@ -1,0 +1,14 @@
+
+.pagecontent {
+    padding-left: 50px;
+    padding-right:50px;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+p, li {
+    font-family: cursive;
+    color: blueviolet;
+}
